@@ -17,7 +17,7 @@ My name is Dumitru and I'm a Web/Discord Developer. You can find me on [Discord]
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MartinHeinz/dumitruthepro/dumitruthepro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumitruthepro&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumitruthepro&hide=java,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/dumitruthepro/dumitruthepro">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dumitruthepro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
