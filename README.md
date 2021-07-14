@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/dumitruthepro/dumitruthepro/master/wave.gif" width="30px">
 
-My name is Dumitru and I'm a Web/Discord Developer. You can find me on [Discord](https://discord.com/users/797044260196319282)
+My name is Dumitru and I'm a Web/Discord Developer. You can find me on [Discord](https://discord.com/users/859899705444794418)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
